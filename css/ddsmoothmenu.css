@@ -86,4 +86,5 @@ top: 0;
 	background: #141819;
 }
 
+/* Holly Hack for IE \*/
 * html .ddsmoothmenu{height: 1%;} /*Holly Hack for IE7 and below*/
